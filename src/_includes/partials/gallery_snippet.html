@@ -7,8 +7,7 @@
       {{ gallery.intro }}
     </p>
   </div>
-  <div class="grid gap-4 md:grid-cols-2 lg:grid-cols-4">
-
+  <div class="grid justify-items-center gap-4 md:grid-cols-2 lg:grid-cols-4">
     {% for image in gallery.items %}
     <img class="w-11/12 rounded-lg col-span-2 mb-1" src={{image.URL}} alt={{image.desc}} />
     {% endfor %}
