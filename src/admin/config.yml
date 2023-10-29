@@ -1,9 +1,8 @@
 backend:
   # Use netlify identity as backend
   name: git-gateway
-  branch: master
+  branch: main
   ### enable below lines for github integration ###
-  # name: github
   repo: nimblestart/tvc-main
 media_folder: "src/img"
 public_folder: "/img"
