@@ -1,28 +1,66 @@
 {
   "members": [
     {
-      "name": "Labrador",
-      "title": "CEO & Web Developer",
-      "about": "Labrador drives the technical strategy of the FErN platform and brand.",
-      "img_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Stamp_of_Azerbaijan_-_2011_-_Colnect_387770_-_Labrador_Canis_lupus_familiaris.jpeg"
+      "name": "Dr. S. Nain",
+      "title": "Veterinarian",
+      "about": "Dr. Nain is working at Taylor Veterinary Clinic since May, 2012. Dr. Nain is one of the highly qualified Veterinarian, finished his PhD from University of Saskatchewan in 2008. Subsequently he worked for two years at Western College of Veterinary Medicine in Saskatoon and one year at University College of Veterinary Medicine, University of Calgary. Dr Nain has extensive experience in avian (Birds) health, toxicology and emergency medicine.",
+      "img_url": ".././img/default-profile.jpg"
     },
     {
-      "name": "Doberman Pinscher",
-      "title": "CTO",
-      "about": "Doberman drives the technical strategy of the FErN platform and brand.",
-      "img_url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Stamp_of_Azerbaijan_-_2011_-_Colnect_387771_-_Doberman_Pinscher_Canis_lupus_familiaris.jpeg"
+      "name": "Dr. S. Arya",
+      "title": "Veterinarian",
+      "about": "Dr. Arya is working at Taylor Veterinary Clinic since May, 2012. Dr. Arya finished her MSc in Animal Nutrition from University of Saskatchewan in 2010. Dr. Arya volunteered at various veterinary facilities across western Canada in Lethbridge and Calgary before moving to Red Deer. Dr. Arya has special interest in preventive medicine, surgery and pet nutrition.",
+      "img_url": ".././img/default-profile.jpg"
     },
     {
-      "name": "Chow Chow",
-      "title": "Senior Front End Developer",
-      "about": "Chow drives the technical strategy of the FErN platform and brand.",
-      "img_url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Stamp_of_Azerbaijan_-_2011_-_Colnect_387772_-_Chow_Chow_Canis_lupus_familiaris.jpeg"
+      "name": "Dr. S. Saini",
+      "title": "Veterinarian",
+      "about": "Dr Saini is currently working as a veterinarian. Profile coming soon.",
+      "img_url": ".././img/default-profile.jpg"
     },
     {
-      "name": "German Shephard",
-      "title": "Marketing and Sales",
-      "about": "German drives the technical strategy of the FErN platform and brand.",
-      "img_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Stamp_of_Azerbaijan_-_2011_-_Colnect_387773_-_German_Shepherd_Canis_lupus_familiaris.jpeg"
+      "name": "Tiffany Anderson",
+      "title": "Animal Health Technologist",
+      "about": "Tiffany is currently working as an Animal Health Technologist. She has worked in small animal practices for over 10 years, and has been a Veterinary Technician for the last 6 months. She has worked at our clinic since March 2021. She shares her home with a loud and demanding cat named Lily.",
+      "img_url": ".././img/default-profile.jpg"
+    },
+    {
+      "img_url": ".././img/default-profile.jpg",
+      "name": "Jennifer Pulvermacher",
+      "title": "Clinic Manager",
+      "about": "Jennifer is currently working as the Clinic Manager and is a certified Medical Office Assistant from Vancouver Island University. She has been a part of the team since Sept 2014. She has a passion for the well-being of animals and strives to give them the best care. She currently has 3 rowdy cats named Tux, Kitsy and Kaytan. She has plans to continue her education to become a certified Animal Health Technician."
+    },
+    {
+      "name": "Ashley Bruinsma",
+      "title": "Veterinary Assistant",
+      "about": "Ashley is currently working as a Veterinary Assistant. She has been raised in Red Deer. She went to Olds College for her Veterinary Medical Reception. She has been working in mixed animal practices for 4 years. She started on Taylor Veterinary Clinic in 2021. She has 2 dogs (Ryuu and Juda) and 1 cat that she loves spending her free time with.",
+      "img_url": "asas"
+    },
+    {
+      "name": "Jolene Janes",
+      "title": "Veterinary Assistant",
+      "about": "Jolene is currently working as a Veterinary Assistant. She has been at the clinic since 2017. She went to Olds College for her Veterinary Medical Reception certificate. She has a passion for animals and spends her time with her 2 cats (Kirby and Link) and at the dog park with her 2 super high-energy dogs (Skye and Ellie). She has 2 wonderful little boys that fill her life with joy.",
+      "img_url": "asas"
+    },
+    {
+      "title": "Veterinary Assistant",
+      "name": "Stephanie Rempel",
+      "about": "Stephanie is full time mom of two beautiful daughters and is currently working as a Veterinary Assistant. She started out as a Health Care Aid, and then proceeded to further her education as a Medical Office Assistant before deciding to switch to Veterinary medicine. She loves to spend her time here at work with all of the animals, or at the dog park with her Chihuahua named Cali and her Blue Heeler named Akita.",
+      "img_url": "asasas"
+    },
+    {
+      "title": "Veterinary Assistant",
+      "about": "Sarah is currently working as a Veterinary Assistant. She completed the Veterinary Medical Reception certificate at Olds College and is currently attending Olds again for her last year of the Animal Health Technician. She hopes to work as a technician once she has completed her schooling. She has 2 cats, Atlas and Ripley. She likes to spend her free time outside and travelling.",
+      "name": "Sarah Woodcock",
+      "img_url": "asass"
+    },
+    {
+      "title": "Veterinary Assistant",
+      "about": "Kaitlynn is currently working as a Veterinary Assistant. She is hoping to get accepted into the Animal Health Technician program by the end of this year. She has 2 cats and a bearded dragon. She has a passion for animals and the outdoors. Some of her hobbies include snowboarding, quadding, longboarding and camping.",
+      "name": "Kaitlynn Batt",
+      "img_url": "asass"
     }
-  ]
+  ],
+  "title": "Our Team",
+  "intro": "At Taylor Veterinary Clinic, we take pride in our team of veterinarians and staff, and recruit professional, energetic and enthusiastic associate veterinarians to join our clinic."
 }

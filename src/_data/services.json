@@ -1,34 +1,46 @@
 {
   "items": [
     {
-      "title": "Marketing",
-      "desc": "Plan it, create it, launch it. Collaborate seamlessly with all the organization and hit your marketing goals every month with our marketing plan."
+      "title": "Wellness and Preventive Care",
+      "desc": "We provide routine veterinary care for pets such as vaccination for preventable diseases, deworming for gastrointestinal parasites. Nutritional requirement of pets vary with breed, age and medical condition of dog or cat, for detailed information, please consult with our veterinarians."
     },
-    
     {
-      "title": "Legal",
-      "desc": "Protect your organization, devices and stay compliant with our structured workflows and custom permissions made for you."
+      "title": "Health or Clinical Examination",
+      "desc": "Our veterinarians perform regular Health examination on pets (Dog, Cat and Exotics) and observe for signs of different medical condition. Health examination starts with medical history, followed by complete physical examination. During this process our staff Veterinarians may offer different diagnostics options to arrive at a definitive diagnosis."
     },
-    
     {
-      "title": "Business Automation",
-      "desc": "Auto-assign tasks, send Slack messages, and much more. Now power up with hundreds of new templates to help you get started."
+      "title": "National and International Health Certificates",
+      "desc": "All pets traveling need a current exam for health and vaccine status. Regulations vary for different travel situations. Please check with the consulate of the country to which you are traveling to ensure all paperwork is complete."
     },
-    
     {
-      "title": "Finance",
-      "desc": "Audit-proof software built for critical financial operations like month-end close and quarterly budgeting."
+      "title": "Vaccinations",
+      "desc": "Vaccines are given at annual appointments. Canine vaccines include:- Rabies vaccine, DA2PP (Distemper, Parvovirus, Adenovirus (Hepatitis) and Parainfluenza vaccine, Bordetella (Kennel Cough) vaccine, Leptosporosis and Lyme disease vaccine. Feline vaccines include:- Rabies vaccine, FVRCP (Panleukopenia or feline distemper, rhinotracheitis and calicivirus) vaccine and Leukemia vaccine."
     },
-    
     {
-      "title": "Enterprise Design",
-      "desc": "Craft beautiful, delightful experiences for both marketing and product with real cross-company collaboration."
+      "title": "Spay and Neuter",
+      "desc": "Dogs and cats should be sterilized to avoid unwanted pregnancies and some abnormal behaviors. In addition to unwanted pregnancies, Spaying females reduces or eliminate several uterine conditions (Pyometra, Metritis and Ovarian cysts) and Mammary gland tumors. Neutering males reduces Prostitis, Paraphimosis and some abnormal behaviors. Ideal age for spay and neuter for dogs and cats is 6 months."
     },
-    
     {
-      "title": "Operations",
-      "desc": "Keep your company’s lights on with customizable, iterative, and structured workflows built for all efficient teams and individual."
+      "title": "Dentistry",
+      "desc": "Dogs and cats needs regular dental care to remove tartar and plaque to prevent pets loosing their teeth and remove bad breath. During routine visit at our hospital our veterinarians advise about routine dental hygiene of pets."
+    },
+    {
+      "title": "Radiology",
+      "desc": "We are very happy to introduce state of art digital radiology machine at out Hospital, this equipment is used to diagnose and visualize within the animal body."
+    },
+    {
+      "title": "Diagnostics and Treatments",
+      "desc": "We provide comprehensive diagnostics blood work, urine analysis, fecal analysis and much more to diagnose different medical conditions and treatments are provided accordingly."
+    },
+    {
+      "title": "Grooming, Day Boarding",
+      "desc": "Our technician/assistants offer nail trimming, lionshaves and day boarding to our clients"
+    },
+    {
+      "title": "Online Store",
+      "desc": "Our online store is live at https://taylorvetclinic.clientvantage.ca/. Clients can now browse through thousands of pet products and order from the comfort of your own home. Products can be picked up here at the clinic or shipped directly to you. Food, supplements, treats, toys and accessories can all be ordered online. Also, a HUGE selection of large animal (equine) and exotics (Rabbits, hamsters, reptiles, and birds!) Available to you at the click of a button! If you've been in lately and haven't seen what you're looking for, we bet you can find it on here! Click the link below to check out our website: https://taylorvetclinic.clientvantage.ca/Register online and you will have access on the same day. Give us a call if you have any question regarding this helpful new tool!"
     }
-  ]
+  ],
+  "title": "Services",
+  "intro": "At Taylor Veterinary Clinic, all of your pet’s needs from routine pet annual vaccinations, neuter and spays to major surgeries can be taken care by our Veterinarians."
 }
-

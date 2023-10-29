@@ -1,0 +1,40 @@
+<div class="py-8 px-4 mx-auto max-w-screen-xl sm:py-16 lg:px-6">
+  <div class="mx-auto text-center mb-8 lg:mb-16">
+    <h2 class="mb-4 text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white">
+      {{ contact.title }}
+    </h2>
+    <p class="font-light text-gray-500 lg:mb-16 sm:text-xl dark:text-gray-400">
+      {{ contact.intro }}
+    </p>
+  </div>
+
+  <div class="flex flex-col md:flex-row gap-4 md:gap-36 justify-center">
+    <div class="grid gap-2">
+      <div class="flex flex-col">
+        <p class="tracking-tight text-xl font-bold dark:text-white">Phone</p>
+        <p class="text-gray-500 dark:text-gray-400">{{ primary_info.phone }}</p>
+      </div>
+      <div class="flex flex-col">
+        <p class="tracking-tight text-xl font-bold dark:text-white">Email</p>
+        <p class="text-gray-500 dark:text-gray-400">{{ primary_info.email }}</p>
+      </div>
+      <div class="flex flex-col">
+        <p class="tracking-tight text-xl font-bold dark:text-white">Address</p>
+        <p class="text-gray-500 dark:text-gray-400">{{ address.line1 }}</p>
+        <p class="text-gray-500 dark:text-gray-400">{{ address.city }}</p>
+        <p class="text-gray-500 dark:text-gray-400">{{ address.state }}, {{ address.zip }}</p>
+      </div>
+      <div class="flex flex-col">
+        <p class="tracking-tight text-xl font-bold dark:text-white">Hours</p>
+
+        {% for hour in hours.items %}
+        <p class="text-gray-500 dark:text-gray-400">{{ hour.detail }}</p>
+        {% endfor %}
+
+      </div>
+    </div>
+
+    <div> <iframe src={{ address.map_url }} width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
+        referrerpolicy="no-referrer-when-downgrade"></iframe></div>
+  </div>
+</div>
