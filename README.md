@@ -16,5 +16,4 @@ tvc website based on [FErN](https://github.com/nimblestart/fern)
 
 ## ToDo
 - Verify Darkmode
-- Verify Mobile
-- Team Socials
+- apple touch, web maifest, android logo update the best practice on this
