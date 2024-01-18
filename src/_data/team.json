@@ -13,46 +13,64 @@
       "img_url": ".././img/default-profile.jpg"
     },
     {
-      "name": "Tiffany Anderson",
-      "title": "Animal Health Technologist",
-      "about": "Tiffany is currently working as an Animal Health Technologist. She has worked in small animal practices for over 10 years, and has been a Veterinary Technician for the last 6 months. She has worked at our clinic since March 2021. She shares her home with a loud and demanding cat named Lily.",
+      "name": "Dr. Pamela Kaakee",
+      "title": "Veterinarian",
+      "about": "Information to come.",
+      "img_url": ".././img/default-profile.jpg"
+    },
+    {
+      "name": "Dr. Singh",
+      "title": "Veterinarian",
+      "about": "Information to come.",
       "img_url": ".././img/default-profile.jpg"
     },
     {
       "img_url": ".././img/default-profile.jpg",
       "name": "Jennifer Pulvermacher",
       "title": "Clinic Manager",
-      "about": "Jennifer is currently working as the Clinic Manager and is a certified Medical Office Assistant from Vancouver Island University. She has been a part of the team since Sept 2014. She has a passion for the well-being of animals and strives to give them the best care. She currently has 3 rowdy cats named Tux, Kitsy and Kaytan. She has plans to continue her education to become a certified Animal Health Technician."
+      "about": "Jennifer is currently working as the Clinic Manager and is a certified Medical Office Assistant from Vancouver Island University. She has been a part of the team since Sept 2014. She has a passion for the well-being of animals and strives to give them the best care. She currently has 3 rowdy cats named Tux, Kitsy and Kaytan."
     },
     {
-      "name": "Ashley Bruinsma",
-      "title": "Veterinary Assistant",
-      "about": "Ashley is currently working as a Veterinary Assistant. She has been raised in Red Deer. She went to Olds College for her Veterinary Medical Reception. She has been working in mixed animal practices for 4 years. She started on Taylor Veterinary Clinic in 2021. She has 2 dogs (Ryuu and Juda) and 1 cat that she loves spending her free time with.",
-      "img_url": "asas"
+      "name": "Tiffany Anderson",
+      "title": "Animal Health Technologist",
+      "about": "Tiffany is currently working as an Animal Health Technologist. She has worked in small animal practices for over 10 years, and has been a Veterinary Technician for the last 6 months. She has worked at our clinic since March 2021. She shares her home with a loud and demanding cat named Lily.",
+      "img_url": ".././img/default-profile.jpg"
+    },
+    {
+      "title": "Registered Animal Health Technician",
+      "about": "Sarah is currently working as a Registered Veterinary Technologist. She completed her AHT program at Olds College in 2022. She has 2 cats, Atlas and Ripley and her newest edition, Newton, an Australian Shepherd. She likes to spend her free time outdoors and travelling.",
+      "name": "Sarah Woodcock",
+      "img_url": ".././img/default-profile.jpg"
     },
     {
       "name": "Jolene Janes",
       "title": "Veterinary Assistant",
       "about": "Jolene is currently working as a Veterinary Assistant. She has been at the clinic since 2017. She went to Olds College for her Veterinary Medical Reception certificate. She has a passion for animals and spends her time with her 2 cats (Kirby and Link) and at the dog park with her 2 super high-energy dogs (Skye and Ellie). She has 2 wonderful little boys that fill her life with joy.",
-      "img_url": "asas"
+      "img_url": ".././img/default-profile.jpg"
     },
     {
       "title": "Veterinary Assistant",
       "name": "Stephanie Rempel",
       "about": "Stephanie is full time mom of two beautiful daughters and is currently working as a Veterinary Assistant. She started out as a Health Care Aid, and then proceeded to further her education as a Medical Office Assistant before deciding to switch to Veterinary medicine. She loves to spend her time here at work with all of the animals, or at the dog park with her Chihuahua named Cali and her Blue Heeler named Akita.",
-      "img_url": "asasas"
+      "img_url": ".././img/default-profile.jpg"
     },
     {
+      "name": "Hope Woods",
       "title": "Veterinary Assistant",
-      "about": "Sarah is currently working as a Veterinary Assistant. She completed the Veterinary Medical Reception certificate at Olds College and is currently attending Olds again for her last year of the Animal Health Technician. She hopes to work as a technician once she has completed her schooling. She has 2 cats, Atlas and Ripley. She likes to spend her free time outside and travelling.",
-      "name": "Sarah Woodcock",
-      "img_url": "asass"
+      "about": "Hope is currently working as a Veterinary Assistant. She completed her Veterinary Office Assistant Certificate through Robertson College. She started at Taylor Veterinary Clinic in 2022. She has a German Shepherd/Borzoi Mix named Layla and two cats (Auto and Simone). She enjoys board games and movies.",
+      "img_url": ".././img/default-profile.jpg"
     },
     {
+      "name": "Jemoriah Rogers",
       "title": "Veterinary Assistant",
-      "about": "Kaitlynn is currently working as a Veterinary Assistant. She is hoping to get accepted into the Animal Health Technician program by the end of this year. She has 2 cats and a bearded dragon. She has a passion for animals and the outdoors. Some of her hobbies include snowboarding, quadding, longboarding and camping.",
-      "name": "Kaitlynn Batt",
-      "img_url": "asass"
+      "about": "Jem is a recent Veterinary Medical Receptionist graduate from Olds College (2023) and she's now bringer her dedication to our team as a Veterinary Assistant. With a soft spot for her three cats Leo, Chunk and Silver, as well as for her dog Atlas. She spends her free time either riding horses, Spartan and Chelle, or with her other playful pets. Looking ahead, Jem hopes to expand her knowledge in animal health to continue providing heartfelt care to all our furry friends.",
+      "img_url": ".././img/default-profile.jpg"
+    },
+    {
+      "name": "Jessica Hurlburt",
+      "title": "Veterinary Assistant",
+      "about": "Jessica is currently working as a Veterinary Assistant. She wants to continue to work and expand her knowledge in the animal industry. She started working at Taylor Veterinary Clinic in August of 2023. She owns 5 cats (Alice, Zeppelin, Duncan, Archie and Lola). She enjoys spending time with loved ones, art, and gaming.",
+      "img_url": ".././img/default-profile.jpg"
     }
   ],
   "title": "Our Team",
