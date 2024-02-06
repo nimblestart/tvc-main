@@ -2,6 +2,6 @@
   "name": "Taylor Veterinary Clinic",
   "email": "taylorveterinaryclinic@gmail.com",
   "phone": "+1(403) 343-0888",
-  "banner": "We’ve Moved. You can now find us in our new home at: Unit 1C, 6315 Horn Street,  Red Deer,  AB, AB T4N. We hope you’ll stop by soon.",
-  "enableBanner": false
+  "banner": "We’ve Moved. You can now find us in our new home at: Unit 1C, 6315 Horn Street,  Red Deer,  AB, AB T4N. We hope you’ll stop by soon.  ",
+  "enableBanner": true
 }
