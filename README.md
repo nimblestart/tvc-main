@@ -17,3 +17,5 @@ tvc website based on [FErN](https://github.com/nimblestart/fern)
 ## ToDo
 - Verify Darkmode
 - apple touch, web maifest, android logo update the best practice on this
+
+## Test Deploy 9/16/2025
