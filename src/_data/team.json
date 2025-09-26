@@ -1,21 +1,15 @@
 {
   "members": [
     {
-      "name": "Dr. S. Nain",
-      "title": "Veterinarian",
-      "about": "Dr. Nain is working at Taylor Veterinary Clinic since May, 2012. Dr. Nain is one of the highly qualified Veterinarian, finished his PhD from University of Saskatchewan in 2008. Subsequently he worked for two years at Western College of Veterinary Medicine in Saskatoon and one year at University College of Veterinary Medicine, University of Calgary. Dr Nain has extensive experience in avian (Birds) health, toxicology and emergency medicine.",
-      "img_url": ".././img/default-profile.jpg"
-    },
-    {
       "name": "Dr. S. Arya",
       "title": "Veterinarian",
       "about": "Dr. Arya is working at Taylor Veterinary Clinic since May, 2012. Dr. Arya finished her MSc in Animal Nutrition from University of Saskatchewan in 2010. Dr. Arya volunteered at various veterinary facilities across western Canada in Lethbridge and Calgary before moving to Red Deer. Dr. Arya has special interest in preventive medicine, surgery and pet nutrition.",
       "img_url": ".././img/default-profile.jpg"
     },
     {
-      "name": "Dr. P. Kaakee",
+      "name": "Dr. S. Nain",
       "title": "Veterinarian",
-      "about": "Dr. Pam graduated from the Ontario Veterinary College in 1996. She spent most of her her early career in Standardbred racing. She joined our practice in 2022 when she decided to try small animal practice full time. She has 3 cats and 3 horses which she shares with her husband. She likes to spend her free time with her horses or going on road trips. ",
+      "about": "Dr. Nain is working at Taylor Veterinary Clinic since May, 2012. Dr. Nain is one of the highly qualified Veterinarian, finished his PhD from University of Saskatchewan in 2008. Subsequently he worked for two years at Western College of Veterinary Medicine in Saskatoon and one year at University College of Veterinary Medicine, University of Calgary. Dr Nain has extensive experience in avian (Birds) health, toxicology and emergency medicine.",
       "img_url": ".././img/default-profile.jpg"
     },
     {
@@ -25,21 +19,39 @@
       "img_url": ".././img/default-profile.jpg"
     },
     {
-      "img_url": ".././img/default-profile.jpg",
-      "name": "Jennifer Pulvermacher",
-      "title": "Clinic Manager",
-      "about": "Jennifer is currently working as the Clinic Manager and is a certified Medical Office Assistant from Vancouver Island University. She has been a part of the team since Sept 2013. She has a passion for the well-being of animals and strives to give them the best care. She currently has 3 rowdy cats named Tux, Kitsy and Kaytan."
-    },
-    {
-      "name": "Tiffany Anderson",
-      "title": "Registered Animal Health Technologist",
-      "about": "Tiffany is currently working as an Animal Health Technologist. She has worked in small animal practices for over 10 years, and has been a Veterinary Technician for the last 6 months. She has worked at our clinic since March 2021. She shares her home with a loud and demanding cat named Lily.",
+      "name": "Dr. P. Kaakee",
+      "title": "Veterinarian",
+      "about": "Dr. Pam graduated from the Ontario Veterinary College in 1996. She spent most of her her early career in Standardbred racing. She joined our practice in 2022 when she decided to try small animal practice full time. She has 3 cats and 3 horses which she shares with her husband. She likes to spend her free time with her horses or going on road trips. ",
       "img_url": ".././img/default-profile.jpg"
     },
     {
-      "title": "Registered Animal Health Technologist",
-      "about": "Sarah is currently working as a Registered Veterinary Technologist. She completed her AHT program at Olds College in 2022. She has 2 cats, Atlas and Ripley and her newest edition, Newton, an Australian Shepherd. She likes to spend her free time outdoors and travelling.",
+      "name": "Dr. D. Sylvester",
+      "title": "Veterinarian",
+      "about": "Profile coming soon.",
+      "img_url": ".././img/default-profile.jpg"
+    },
+    {
+      "img_url": ".././img/default-profile.jpg",
+      "name": "Jennifer Pulvermacher",
+      "title": "Clinic Manager",
+      "about": "Jennifer is currently working as the Clinic Manager and is a certified Medical Office Assistant from Vancouver Island University. She has been a part of the team since Sept 2013. She has a passion for the well-being of animals and strives to give them the best care. She currently has 3 rowdy cats named Kitsy and Kaytan."
+    },
+    {
+      "name": "Tiffany Anderson",
+      "title": "Registered Veterinary Technologist",
+      "about": "Tiffany is currently working as an Registered Veterinary Technologist. She has worked in small animal practices for over 10 years, and has been a Veterinary Technician for the last 6 months. She has worked at our clinic since March 2021. She shares her home with a loud and demanding cat named Lily.",
+      "img_url": ".././img/default-profile.jpg"
+    },
+    {
+      "title": "Registered Veterinary Technologist",
+      "about": "Sarah is currently working as a Registered Veterinary Technologist. She completed her AHT program at Olds College in 2022. She has 2 cats, Atlas and Ripley. She likes to spend her free time outdoors and travelling.",
       "name": "Sarah Woodcock",
+      "img_url": ".././img/default-profile.jpg"
+    },
+    {
+      "name": "Venesse Besorio",
+      "title": "Registered Veterinary Technologist",
+      "about": "Venesse graduated from the Veterinary Technology program at Olds College in 2024 and began her career here in October of the same year as a Registered Veterinary Technologist. She shares her life with her four dogs Maple, Toffee, Rocky, and Louis, who keep her both busy and happy. She loves caring for animals and making a difference in their lives, and in her downtime, she enjoys watching movies, cooking, and baking sweet treats.",
       "img_url": ".././img/default-profile.jpg"
     },
     {
@@ -64,12 +76,6 @@
       "name": "Jessica Hurlburt",
       "title": "Veterinary Assistant",
       "about": "Jessica is currently working as a Veterinary Assistant. She wants to continue to work and expand her knowledge in the animal industry. She started working at Taylor Veterinary Clinic in August of 2023. She owns 5 cats (Alice, Zeppelin, Duncan, Archie and Lola). She enjoys spending time with loved ones, art, and gaming.",
-      "img_url": ".././img/default-profile.jpg"
-    },
-    {
-      "name": "Venesse Besorio",
-      "title": "Registered Animal Health Technologist",
-      "about": "Profile coming soon.",
       "img_url": ".././img/default-profile.jpg"
     },
     {
